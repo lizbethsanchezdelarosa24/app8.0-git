@@ -42,5 +42,5 @@ Lizbeth Sanchez De La Rosa
 
 
 <!--Colocar icono de la app-->
-<icon
+<icon src="res/android/mdpi.png"/>
 </widget>
